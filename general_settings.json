@@ -1,13 +1,13 @@
 {
   "health_enabled": true,
-  "health_threshold": 50,
+  "health_threshold": 60,
   "health_key": "1",
-  "mana_enabled": false,
+  "mana_enabled": true,
   "mana_threshold": 40,
   "mana_key": "2",
   "stamina_enabled": false,
   "pickup_enabled": true,
   "pickup_key": "z",
-  "pickup_interval_ms": 761,
+  "pickup_interval_ms": 224,
   "loop_delay_ms": 502
 }
